@@ -8,6 +8,7 @@
 * Resnet 50
 
 **Dataset** : https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
+
 **Here goes the list:**
 -   Tomato_mosaic_virus
 -   Target_Spot
